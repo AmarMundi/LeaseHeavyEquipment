@@ -582,5 +582,5 @@ var schemas = `
             },
             "type": "object"
         }
-    }`
-}
+    }
+}`
